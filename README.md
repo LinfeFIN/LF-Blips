@@ -8,6 +8,8 @@ If you have something to ask add me on discord [FIN] Linfe#3799
 #Requirements
 ESX 
 
+Forum Post https://forum.cfx.re/t/release-lf-blips/4798165
+
 ###[Suomi]###
 Tehnyt Minä Linfe
 Toimii ESX 1.2 ja ESX Final
